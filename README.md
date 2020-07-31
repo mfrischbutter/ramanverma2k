@@ -11,10 +11,13 @@
 </a>
 <a href="https://t.me/notaggingraman" target="_blank">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<br />
+</a><br /><br />
 
-### Here are somethings to know about me!
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ramanverma2k">
+</a>
+
+### Some things to know about me!
 - 🔭 I’m currently working on: **GoLang script to sort files in cloud storage** and **GoLang script to download file/folder from Gdrive**
 - 🌱 I’m currently learning: [**Data Science**](https://en.wikipedia.org/wiki/Data_science)
 - 👯 I’m looking to collaborate on: **GoLang & Python projects**
@@ -22,8 +25,6 @@
 - 💬 Ask me about: **Please, I'm a noob ;__;**
 - 📫 How to reach me: **Just use any of the platforms above**
 - ⚡ Fun fact: **I like mixing different foods together to create new flavors.**
-- 😄 Pronouns: **Male......yes**
-
 
 **Languages:**
 <p align="left"> 
