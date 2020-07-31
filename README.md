@@ -14,8 +14,6 @@
 </a>
 <br />
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on: **GoLang script to sort files in cloud storage** and **GoLang script to download file/folder from Gdrive**
 - 🌱 I’m currently learning: [**Data Science**](https://en.wikipedia.org/wiki/Data_science)
 - 👯 I’m looking to collaborate on: **GoLang & Python projects**
