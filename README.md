@@ -26,14 +26,18 @@
 - 📫 How to reach me: **Just use any of the platforms above**
 - ⚡ Fun fact: **I like mixing different foods together to create new flavors.**
 
+
+
+**If i am not active on github then i am probably on hackerrank or lazying around and cooking food.**
+
+
+
 **Languages:**
 <p align="left"> 
 <img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/java.svg">
-<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/kotlin.svg">
 <img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/flutter.svg">
 <img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/dart.svg">
 <img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/go.svg">
-<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/node-dot-js.svg">
 <img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg">
 <img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg">
 <img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gnubash.svg">
