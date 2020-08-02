@@ -34,7 +34,7 @@
 
 **Languages:**
 <p align="left"> 
-<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/java.svg">
+<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/kotlin.svg">
 <img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/flutter.svg">
 <img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/dart.svg">
 <img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/go.svg">
