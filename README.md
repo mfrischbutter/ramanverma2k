@@ -19,7 +19,7 @@
 
 ### Some things to know about me!
 - 🔭 I’m currently working on: **GoLang script to sort files in cloud storage** and **GoLang script to download file/folder from Gdrive**
-- 🌱 I’m currently learning: [**Data Science**](https://en.wikipedia.org/wiki/Data_science)
+- 🌱 I’m currently learning: [**Data Science**](https://en.wikipedia.org/wiki/Data_science), **Data Structures and Algorightms(Revisiting)**.
 - 👯 I’m looking to collaborate on: **GoLang & Python projects**
 - 🤔 I’m looking for help with: **Learning Data Science**
 - 💬 Ask me about: **Please, I'm a noob ;__;**
