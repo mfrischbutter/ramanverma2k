@@ -49,6 +49,7 @@
 <img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftpowerpoint.svg">
 <img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftvisio.svg">
 <img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/powerbi.svg">
+<img  height="20"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/tensorflow.svg">
 </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ramanverma2k&count_private=true&show_icons=true&title_color=333&icon_color=333)
