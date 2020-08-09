@@ -28,7 +28,7 @@
 
 
 
-**If i am not active on github then i am probably on hackerrank or lazying around and cooking food.**
+**If i am not active on github then i am probably on lazying around and cooking food.**
 
 
 
