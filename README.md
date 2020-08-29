@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning: [**AI & ML**].
 - 👯 I’m looking to collaborate on: **GoLang & Python projects**
 - 🤔 I’m looking for help with: **Improving my projects, just make a pull request or comment your suggested improvement**
-- 💬 Ask me about: **Please, I'm a noob ;__;**
+- 💬 Ask me about: **Check out below to ask things related to whatever i know.**
 - 📫 How to reach me: **Just use any of the platforms above**
 - ⚡ Fun fact: **I like mixing different foods together to create new flavors.**
 
@@ -32,7 +32,7 @@
 
 
 
-**Languages & Tools:**
+**What i know and have experience in:**
 <p align="left"> 
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/kotlin.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/flutter.svg">
@@ -41,6 +41,7 @@
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/pandas.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/tensorflow.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/amazonaws.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gnubash.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftword.svg">
