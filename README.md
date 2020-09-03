@@ -35,8 +35,6 @@
 **What i know and have experience in:**
 <p align="left"> 
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/kotlin.svg">
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/flutter.svg">
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/dart.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/go.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/pandas.svg">
