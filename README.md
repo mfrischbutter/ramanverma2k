@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am currently busy with my final year exams. Be back soon. 👋
 
 <a href="https://www.linkedin.com/in/ramanverma2k/" target="_blank">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
