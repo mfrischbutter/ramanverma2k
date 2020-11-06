@@ -19,7 +19,7 @@
 
 ### Some things to know about me!
 - 🔭 I’m currently working on: **Nothing, improving myself.**
-- 🌱 I’m currently learning: [**AI & ML**].
+- 🌱 I’m currently learning: [**Resting**].
 - 👯 I’m looking to collaborate on: **GoLang & Python projects**
 - 🤔 I’m looking for help with: **Improving my projects, just make a pull request or comment your suggested improvement**
 - 💬 Ask me about: **Check out below to ask things related to whatever i know.**
