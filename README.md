@@ -34,11 +34,8 @@
 
 **What i know and have experience in:**
 <p align="left"> 
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/kotlin.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/go.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg">
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/pandas.svg">
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/tensorflow.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/amazonaws.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gnubash.svg">
@@ -46,7 +43,7 @@
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftexcel.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftpowerpoint.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftvisio.svg">
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/powerbi.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/docker.svg">
 </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ramanverma2k&count_private=true&show_icons=true&title_color=333&icon_color=333)
