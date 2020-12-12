@@ -1,4 +1,4 @@
-### Hi there, I am currently busy with my final year exams. Be back soon. 👋
+### veri kul mens((
 
 <a href="https://www.linkedin.com/in/ramanverma2k/" target="_blank">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -18,8 +18,8 @@
 </a>
 
 ### Some things to know about me!
-- 🔭 I’m currently working on: **Nothing, improving myself.**
-- 🌱 I’m currently learning: [**Resting**].
+- 🔭 I’m currently working on: **Stuff.**
+- 🌱 I’m currently learning: [**Docker**].
 - 👯 I’m looking to collaborate on: **GoLang & Python projects**
 - 🤔 I’m looking for help with: **Improving my projects, just make a pull request or comment your suggested improvement**
 - 💬 Ask me about: **Check out below to ask things related to whatever i know.**
