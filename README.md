@@ -18,10 +18,10 @@
 </a>
 
 ### Some things to know about me!
-- 🔭 I’m currently working on: **Stuff.**
-- 🌱 I’m currently learning: [**Docker**].
-- 👯 I’m looking to collaborate on: **GoLang & Python projects**
-- 🤔 I’m looking for help with: **Improving my projects, just make a pull request or comment your suggested improvement**
+- 🔭 I’m currently working on: **Improving skills and A bot for Telegram using GoLang.**
+- 🌱 I’m currently learning: **Docker, Python (Intermediate and Advanced), Flutter(After Python)**
+- 👯 I’m looking to collaborate on: **GoLang, Python and Flutter projects**
+- 🤔 I’m looking for help with: **Projects and Job opportunities.**
 - 💬 Ask me about: **Check out below to ask things related to whatever i know.**
 - 📫 How to reach me: **Just use any of the platforms above**
 - ⚡ Fun fact: **I like mixing different foods together to create new flavors.**
@@ -36,13 +36,15 @@
 <p align="left"> 
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/go.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/flutter.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/c.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/c++.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/amazonaws.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gnubash.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftword.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftexcel.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftpowerpoint.svg">
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftvisio.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/docker.svg">
 </p>
 
