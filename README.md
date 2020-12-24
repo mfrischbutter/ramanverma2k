@@ -38,7 +38,7 @@
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/flutter.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/c.svg">
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/c++.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/cplusplus.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/amazonaws.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gnubash.svg">
