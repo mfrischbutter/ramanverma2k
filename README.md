@@ -19,8 +19,8 @@
 
 ### Some things to know about me!
 - 🔭 I’m currently working on: **Improving skills and A bot for Telegram using GoLang.**
-- 🌱 I’m currently learning: **Docker, Python (Intermediate and Advanced), Flutter(After Python)**
-- 👯 I’m looking to collaborate on: **GoLang, Python and Flutter projects**
+- 🌱 I’m currently learning: **Python (Intermediate and Advanced), Data Structure and Algorithms**
+- 👯 I’m looking to collaborate on: **GoLang, Python projects**
 - 🤔 I’m looking for help with: **Projects and Job opportunities.**
 - 💬 Ask me about: **Check out below to ask things related to whatever i know.**
 - 📫 How to reach me: **Just use any of the platforms above**
@@ -46,6 +46,7 @@
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftexcel.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftpowerpoint.svg">
 <img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/docker.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mongodb.svg">
 </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ramanverma2k&count_private=true&show_icons=true&title_color=333&icon_color=333)
