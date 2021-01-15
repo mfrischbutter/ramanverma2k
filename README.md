@@ -18,35 +18,31 @@
 </a>
 
 ### Some things to know about me!
-- 🔭 I’m currently working on: **Improving skills and A bot for Telegram using GoLang.**
-- 🌱 I’m currently learning: **Python (Intermediate and Advanced), Data Structure and Algorithms**
-- 👯 I’m looking to collaborate on: **GoLang, Python projects**
-- 🤔 I’m looking for help with: **Projects and Job opportunities.**
+- 🔭 I’m currently working on: **My personal website/blog/porfolio**
+- 🌱 I’m currently learning: **PostgreSQL, MongoDB, Next.js, Typescript**
+- 🤔 I’m looking for help with: **Project ideas and Job opportunities.**
 - 💬 Ask me about: **Check out below to ask things related to whatever i know.**
 - 📫 How to reach me: **Just use any of the platforms above**
-- ⚡ Fun fact: **I like mixing different foods together to create new flavors.**
-
 
 
 **If i am not active on github then i am probably on lazying around or cooking food.**
 
 
-
 **What i know and have experience in:**
 <p align="left"> 
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/go.svg">
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/python.svg">
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/flutter.svg">
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/c.svg">
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/cplusplus.svg">
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/amazonaws.svg">
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg">
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gnubash.svg">
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftword.svg">
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftexcel.svg">
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/microsoftpowerpoint.svg">
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/docker.svg">
-<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mongodb.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/go.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/python.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/javascript.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/typescript.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/pandas.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/numpy.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/scikit-learn.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/react.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/next-dot-js.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/amazonaws.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/docker.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/mongodb.svg">
+<img  height="25"  src="https://cdn.jsdelivr.net/npm/simple-icons@4.6.0/icons/postgresql.svg">
 </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ramanverma2k&count_private=true&show_icons=true&title_color=333&icon_color=333)
