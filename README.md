@@ -1,16 +1,16 @@
 ### veri kul mens((
 
 <a href="https://www.linkedin.com/in/ramanverma2k/" target="_blank">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.6.0/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ramanverma2k" target="_blank">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.6.0/icons/github.svg" />
 </a>
 <a href="mailto:ramanverma4183@gmail.com" target="_blank">
-  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.6.0/icons/gmail.svg" />
 </a>
 <a href="https://t.me/notaggingraman" target="_blank">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.6.0/icons/telegram.svg" />
 </a><br /><br />
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
