@@ -16,3 +16,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          template: classic
+          plugin_habits: yes
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes     # Display charts section
+          config_timezone: Asia/Kolkata # Set timezone:  
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage 
