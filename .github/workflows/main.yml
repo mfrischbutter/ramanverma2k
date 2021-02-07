@@ -37,6 +37,21 @@ jobs:
       # ======================================================================================
 
       # ======================================================================================
+      # ⏰ WakaTime plugin
+
+      # Display your wakatime metrics
+      - name: ⏰ WakaTime plugin
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_days: 365
+
+      # ======================================================================================
       # 📰 Recent activity
 
       # Display recent activity
@@ -51,7 +66,6 @@ jobs:
           plugin_activity_limit: 7
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, star, push, repo
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # ======================================================================================
       # 💡 Coding habits
@@ -67,7 +81,6 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: yes
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
           config_timezone: Asia/Kolkata
 
       # ======================================================================================
@@ -83,7 +96,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: kotlin, java
           plugin_languages_details: bytes-size, percentage
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # ======================================================================================
       # 👨‍💻 Lines of code changed
@@ -97,7 +109,6 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: repositories
           plugin_lines: yes
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # ======================================================================================
       # 📌 Starred topics
@@ -113,19 +124,3 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: mastered
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          
-      # ======================================================================================
-      # ⏰ WakaTime plugin
-
-      # Display your wakatime metrics
-      - name: ⏰ WakaTime plugin
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.wakatime.svg
-          committer_token: ${{ secrets.GIT_TOKEN }}
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_days: 365
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
