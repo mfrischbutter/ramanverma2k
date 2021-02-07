@@ -46,11 +46,11 @@ jobs:
           filename: metrics.plugin.wakatime.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           base: ""
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 365
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
 
       # ======================================================================================
       # 📰 Recent activity
