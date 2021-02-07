@@ -7,8 +7,10 @@
 
 name: Metrics (examples)
 on:
-  schedule:
-    - cron: "0 1-23/2 * * *"
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit (optional)
+  push: {branches: ["master", "main"]}
+#     - cron: "0 1-23/2 * * *"
   workflow_dispatch:
 jobs:
   github-metrics:
@@ -29,7 +31,6 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: header, repositories
           plugin_lines: yes
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
 
       # ======================================================================================
       # 🧩 PLUGINS
