@@ -7,10 +7,9 @@
 
 name: Metrics (examples)
 on:
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 */3 * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
   push: {branches: ["master", "main"]}
-#     - cron: "0 1-23/2 * * *"
   workflow_dispatch:
 jobs:
   github-metrics:
