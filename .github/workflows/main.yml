@@ -5,7 +5,7 @@
 #
 # ⚠️ Following jobs all uses @master branch (unstable branch with unreleased features)
 
-name: Metrics (examples)
+name: Metrics
 on:
   schedule: [{cron: "0 */3 * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
