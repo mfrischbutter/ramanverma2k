@@ -897,6 +897,9 @@
     font-size: 10px;
     padding: 0 5px;
   }
+  .achievement .gauge-base, .achievement .gauge-arc {
+    stroke-width: 6;
+  }
 
 /* Fade animation */
   .af {
@@ -1088,13 +1091,13 @@
           
             <div class="entry">
               <span class="value">1</span>
-              <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               10
             </div>
           
             <div class="entry">
               <span class="value">2</span>
-              <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               11
             </div>
           
@@ -1105,8 +1108,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">1</span>
-              <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               13
             </div>
           
@@ -1159,7 +1162,7 @@
             </div>
           
             <div class="entry">
-              <span class="value">5</span>
+              <span class="value">3</span>
               <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               22
             </div>
@@ -1181,7 +1184,7 @@
           <div class="chart-bars">
             
               <div class="entry">
-                <span class="value">5</span>
+                <span class="value">2</span>
                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sun
               </div>
@@ -1206,19 +1209,19 @@
             
               <div class="entry">
                 <span class="value">1</span>
-                <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Thu
               </div>
             
               <div class="entry">
                 <span class="value">1</span>
-                <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Fri
               </div>
             
               <div class="entry">
                 <span class="value">2</span>
-                <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sat
               </div>
             
@@ -1232,26 +1235,20 @@
             
               <div class="entry">
                 <span class="name">Go</span>
-                <div class="bar" style="width: 33.19200000000001%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                <span class="value">41%</span>
+                <div class="bar" style="width: 38.704%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">48%</span>
               </div>
             
               <div class="entry">
                 <span class="name">C</span>
-                <div class="bar" style="width: 29.304000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                <span class="value">37%</span>
+                <div class="bar" style="width: 34.168000000000006%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">43%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Batchfile</span>
-                <div class="bar" style="width: 15.280000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                <span class="value">19%</span>
-              </div>
-            
-              <div class="entry">
-                <span class="name">Shell</span>
-                <div class="bar" style="width: 2.2239999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                <span class="value">3%</span>
+                <div class="bar" style="width: 7.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">9%</span>
               </div>
             
           </div>
@@ -1298,6 +1295,7 @@
 
       
         
+
       
 
       
