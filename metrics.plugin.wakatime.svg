@@ -1090,25 +1090,25 @@
                   
                     <div class="entry">
                       <span class="name">nse</span>
-                      <div class="bar" style="width: 42.984%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <div class="bar" style="width: 43.112%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                       <span class="value">54%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Unknown Project</span>
-                      <div class="bar" style="width: 29.92%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <div class="bar" style="width: 29.808%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                       <span class="value">37%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">excel</span>
-                      <div class="bar" style="width: 4.744%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 4.728%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">6%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">nsenw</span>
-                      <div class="bar" style="width: 2.3600000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 2.352%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">3%</span>
                     </div>
                   
@@ -1123,13 +1123,13 @@
                   
                     <div class="entry">
                       <span class="name">Go</span>
-                      <div class="bar" style="width: 50.03999999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                      <div class="bar" style="width: 50.144000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                       <span class="value">63%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">Python</span>
-                      <div class="bar" style="width: 29.92%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                      <div class="bar" style="width: 29.808%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                       <span class="value">37%</span>
                     </div>
                   
