@@ -1129,14 +1129,14 @@
                   
                     <div class="entry">
                       <span class="name">niftyindice</span>
-                      <div class="bar" style="width: 72.4%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">91%</span>
+                      <div class="bar" style="width: 77.704%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">97%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">nse</span>
-                      <div class="bar" style="width: 7.6%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">10%</span>
+                      <div class="bar" style="width: 2.296%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">3%</span>
                     </div>
                   
                 
