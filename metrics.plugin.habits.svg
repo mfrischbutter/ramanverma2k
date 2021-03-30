@@ -536,16 +536,15 @@
     margin-bottom: 0;
   }
 
-  .activity .repo, .activity .issue, .activity .commit .sha {
-    color: #58a6ff;
-    margin: 0 4px;
-  }
-
-  .activity .issue {
+  .activity .field .content {
     flex-grow: 1;
-    width: 0%;
     text-overflow: ellipsis;
     overflow: hidden;
+  }
+
+  .activity .repo, .activity .issue, .activity .commit .sha {
+    display: inline;
+    color: #58a6ff;
   }
 
   .activity .code {
@@ -564,7 +563,7 @@
   }
 
   .activity .details, .activity .timestamp {
-    padding-left: 42px;
+    padding-left: 38px;
     display: flex;
     flex-direction: column;
     font-size: 13px;
@@ -574,11 +573,6 @@
   .activity .timestamp {
     font-size: 10px;
     margin-top: 4px;
-  }
-
-  .activity .details &gt; div {
-    display: flex;
-    align-items: center;
   }
 
   .activity .commit .sha {
@@ -1049,7 +1043,7 @@
               <li>Use spaces for indents</li>
             
             
-              <li>Mostly push code around 22:00</li>
+              <li>Mostly push code around 18:00</li>
             
             
               <li>Mostly active on sunday</li>
@@ -1175,8 +1169,8 @@
             </div>
           
             <div class="entry">
-              <span class="value"></span>
-              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               18
             </div>
           
@@ -1227,8 +1221,8 @@
               </div>
             
               <div class="entry">
-                <span class="value"></span>
-                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                <span class="value">1</span>
+                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Mon
               </div>
             
