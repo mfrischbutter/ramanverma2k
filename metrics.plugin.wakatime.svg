@@ -536,16 +536,15 @@
     margin-bottom: 0;
   }
 
-  .activity .repo, .activity .issue, .activity .commit .sha {
-    color: #58a6ff;
-    margin: 0 4px;
-  }
-
-  .activity .issue {
+  .activity .field .content {
     flex-grow: 1;
-    width: 0%;
     text-overflow: ellipsis;
     overflow: hidden;
+  }
+
+  .activity .repo, .activity .issue, .activity .commit .sha {
+    display: inline;
+    color: #58a6ff;
   }
 
   .activity .code {
@@ -564,7 +563,7 @@
   }
 
   .activity .details, .activity .timestamp {
-    padding-left: 42px;
+    padding-left: 38px;
     display: flex;
     flex-direction: column;
     font-size: 13px;
@@ -574,11 +573,6 @@
   .activity .timestamp {
     font-size: 10px;
     margin-top: 4px;
-  }
-
-  .activity .details &gt; div {
-    display: flex;
-    align-items: center;
   }
 
   .activity .commit .sha {
@@ -1080,7 +1074,7 @@
           
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/></svg>
-              ~3 coding hours recorded
+              ~4 coding hours recorded
             </div>
           
           
@@ -1129,19 +1123,19 @@
                   
                     <div class="entry">
                       <span class="name">wks</span>
-                      <div class="bar" style="width: 69.92000000000002%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                      <span class="value">87%</span>
+                      <div class="bar" style="width: 73.976%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                      <span class="value">92%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">niftyindice</span>
-                      <div class="bar" style="width: 9.792000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                      <span class="value">12%</span>
+                      <div class="bar" style="width: 5.896%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <span class="value">7%</span>
                     </div>
                   
                     <div class="entry">
                       <span class="name">nse</span>
-                      <div class="bar" style="width: 0.288%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                      <div class="bar" style="width: 0.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                       <span class="value">0%</span>
                     </div>
                   
