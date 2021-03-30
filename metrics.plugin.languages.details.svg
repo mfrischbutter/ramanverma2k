@@ -536,16 +536,15 @@
     margin-bottom: 0;
   }
 
-  .activity .repo, .activity .issue, .activity .commit .sha {
-    color: #58a6ff;
-    margin: 0 4px;
-  }
-
-  .activity .issue {
+  .activity .field .content {
     flex-grow: 1;
-    width: 0%;
     text-overflow: ellipsis;
     overflow: hidden;
+  }
+
+  .activity .repo, .activity .issue, .activity .commit .sha {
+    display: inline;
+    color: #58a6ff;
   }
 
   .activity .code {
@@ -564,7 +563,7 @@
   }
 
   .activity .details, .activity .timestamp {
-    padding-left: 42px;
+    padding-left: 38px;
     display: flex;
     flex-direction: column;
     font-size: 13px;
@@ -574,11 +573,6 @@
   .activity .timestamp {
     font-size: 10px;
     margin-top: 4px;
-  }
-
-  .activity .details &gt; div {
-    display: flex;
-    align-items: center;
   }
 
   .activity .commit .sha {
@@ -1040,21 +1034,21 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="220.21650395054064" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="220.17445884346435" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="220.21650395054064" y="0" width="79.49776812355286" height="8" fill="#00ADD8"/>
+          <rect mask="url(#languages-bar)" x="220.17445884346435" y="0" width="79.57041598052552" height="8" fill="#00ADD8"/>
         
-          <rect mask="url(#languages-bar)" x="299.7142720740935" y="0" width="69.8679970400783" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="299.74487482398985" y="0" width="69.85465740674447" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="369.5822691141718" y="0" width="26.68775213042752" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="369.5995322307343" y="0" width="26.68265673850266" height="8" fill="#e34c26"/>
         
-          <rect mask="url(#languages-bar)" x="396.2700212445993" y="0" width="24.804621297114075" height="8" fill="#89e051"/>
+          <rect mask="url(#languages-bar)" x="396.282188969237" y="0" width="24.799885444261474" height="8" fill="#89e051"/>
         
-          <rect mask="url(#languages-bar)" x="421.07464254171344" y="0" width="23.481488554173726" height="8" fill="#555555"/>
+          <rect mask="url(#languages-bar)" x="421.0820744134985" y="0" width="23.477005322068685" height="8" fill="#555555"/>
         
-          <rect mask="url(#languages-bar)" x="444.55613109588717" y="0" width="9.4540854080634" height="8" fill="#f34b7d"/>
+          <rect mask="url(#languages-bar)" x="444.55907973556714" y="0" width="9.452280375170044" height="8" fill="#f34b7d"/>
         
-          <rect mask="url(#languages-bar)" x="454.0102165039505" y="0" width="5.989783496049459" height="8" fill="#C1F12E"/>
+          <rect mask="url(#languages-bar)" x="454.0113601107372" y="0" width="5.988639889262786" height="8" fill="#C1F12E"/>
         
       </svg>
       
@@ -1069,7 +1063,7 @@
                   </div>
                   <small>
                      <div>40.1 kB</div>
-                     <div>47.87%</div>
+                     <div>47.86%</div>
                   </small>
                 </div>
               
@@ -1102,7 +1096,7 @@
                   </div>
                   <small>
                      <div>1.72 kB</div>
-                     <div>2.06%</div>
+                     <div>2.05%</div>
                   </small>
                 </div>
               
@@ -1116,8 +1110,8 @@
                     Go
                   </div>
                   <small>
-                     <div>14.4 kB</div>
-                     <div>17.28%</div>
+                     <div>14.5 kB</div>
+                     <div>17.3%</div>
                   </small>
                 </div>
               
