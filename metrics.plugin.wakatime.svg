@@ -1068,7 +1068,7 @@
                                 <span class="name">
                                     wks
                                 </span>
-                                <div class="bar" style="width: 74.896%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 74.888%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">
                                     94%
                                 </span>
@@ -1086,7 +1086,7 @@
                                 <span class="name">
                                     nse
                                 </span>
-                                <div class="bar" style="width: 0.11200000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.12%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">
                                     0%
                                 </span>
