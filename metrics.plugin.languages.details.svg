@@ -97,8 +97,32 @@
     margin: 0 6px;
   }
 
-  .avatar.organization {
+  .organization.avatar {
     border-radius: 15%;
+  }
+
+  .organization.name {
+    white-space: nowrap;
+  }
+
+  .organization.contributions {
+    margin: 0 8px;
+    flex-wrap: wrap;
+  }
+
+  .contribution.organization {
+    display: flex;
+    border: 1px solid #959da5;
+    border-radius: 6px;
+    padding: 2px 6px;
+    padding-left: 0;
+    margin: 2px;
+    font-size: 12px;
+    background-color: #959da520;
+  }
+
+  .contribution.organization .avatar {
+    margin: 0 4px;
   }
 
 /* Commit calendar */
@@ -1030,14 +1054,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="191.7436948944023" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="191.7436948944023" y="0" width="84.96370719704737" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="276.7074020914497" y="0" width="83.2234980520812" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="359.9309001435309" y="0" width="31.040803772811152" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="390.971703916342" y="0" width="25.329710887840886" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="416.3014148041829" y="0" width="23.179208529833915" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="439.4806233340168" y="0" width="12.39840065614107" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="451.87902399015786" y="0" width="8.120976009842117" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="190.58502236760313" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="190.58502236760313" y="0" width="84.73153781093006" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="275.3165601785332" y="0" width="82.72059348027676" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="358.03715365881" y="0" width="30.85322980037296" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="388.89038345918294" y="0" width="25.176648018505496" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="414.0670314776885" y="0" width="23.039140757950946" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="437.1061722356394" y="0" width="12.323479359644564" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="449.42965159528404" y="0" width="10.570348404716048" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1053,7 +1077,7 @@
                                     40.6 kB
                                 </div>
                                 <div>
-                                    41.68%
+                                    41.43%
                                 </div>
                             </small>
                         </div>
@@ -1069,7 +1093,7 @@
                                     17.6 kB
                                 </div>
                                 <div>
-                                    18.09%
+                                    17.98%
                                 </div>
                             </small>
                         </div>
@@ -1085,7 +1109,7 @@
                                     5.37 kB
                                 </div>
                                 <div>
-                                    5.51%
+                                    5.47%
                                 </div>
                             </small>
                         </div>
@@ -1101,7 +1125,7 @@
                                     2.63 kB
                                 </div>
                                 <div>
-                                    2.7%
+                                    2.68%
                                 </div>
                             </small>
                         </div>
@@ -1119,7 +1143,7 @@
                                     18 kB
                                 </div>
                                 <div>
-                                    18.47%
+                                    18.42%
                                 </div>
                             </small>
                         </div>
@@ -1135,7 +1159,7 @@
                                     6.58 kB
                                 </div>
                                 <div>
-                                    6.75%
+                                    6.71%
                                 </div>
                             </small>
                         </div>
@@ -1151,7 +1175,7 @@
                                     4.92 kB
                                 </div>
                                 <div>
-                                    5.04%
+                                    5.01%
                                 </div>
                             </small>
                         </div>
@@ -1164,10 +1188,10 @@
                             </div>
                             <small>
                                 <div>
-                                    1.72 kB
+                                    2.25 kB
                                 </div>
                                 <div>
-                                    1.77%
+                                    2.3%
                                 </div>
                             </small>
                         </div>
