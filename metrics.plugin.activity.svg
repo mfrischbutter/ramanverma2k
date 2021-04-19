@@ -2,8 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>
-        /* SVG global context */
+    <style>/* SVG global context */
   svg {
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
     font-size: 14px;
@@ -615,7 +614,7 @@
     white-space: nowrap;
   }
 
-  .activity .details .comment {
+  .activity .details &gt; .comment {
     overflow: hidden;
     text-overflow: ellipsis;
     display: block;
@@ -623,7 +622,6 @@
     margin-top: 6px;
     border-left: 3px solid #777777B2;
     padding-left: 6px;
-    max-height: 38px;
     /* May not work in all browsers */
     display: -webkit-box;
     -webkit-line-clamp: 2;
@@ -945,6 +943,56 @@
     overflow: hidden;
   }
 
+/* Syntax highlighting */
+  code {
+    background-color: #7777771F;
+    display: inline-block;
+    border-radius: 6px;
+    color: #777777;
+    padding: 1px 5px;
+    font-size: 80%;
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+  }
+  code[class^=language-] {
+    white-space: pre-wrap;
+    width: 97%;
+    margin-top: 4px;
+  }
+  .token.comment, .token.prolog, .token.doctype, .token.cdata {
+    color: #6a737d;
+  }
+  .token.punctuation {
+    color: #24292e;
+  }
+  .token.namespace, .token.property, .token.tag, .token.boolean, .token.number, .token.constant, .token.symbol {
+    color: #d73a49;
+  }
+  .token.selector, .token.attr-name, .token.string, .token.char, .token.builtin, .token.inserted {
+    color: #032f62;
+  }
+  .token.operator, .token.entity, .token.url, .language-css .token.string, .style .token.string, .token.variable {
+    color: #005cc5;
+  }
+  .token.atrule, .token.attr-value, .token.keyword {
+    color: #6f42c1
+  }
+  .token.regex, .token.important {
+    color: #e90;
+  }
+  .token.important, .token.bold {
+    font-weight: bold;
+  }
+  .token.italic {
+    font-style: italic;
+  }
+  .token.deleted {
+    color: red;
+  }
+  .token.trimmed {
+    font-style: italic;
+    color: #77777760
+  }
+
 /* Charts */
   .ct-line {
     stroke-width: 2px !important;
@@ -1036,19 +1084,16 @@
     animation-duration: 0s !important;
     animation-play-state: paused !important;
     caret-color: transparent !important;
-  }
-    </style>
+  }</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink">
             <div class="row">
             </div>
             <section>
                 <h2 class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M0 8a8 8 0 1116 0v5.25a.75.75 0 01-1.5 0V8a6.5 6.5 0 10-13 0v5.25a.75.75 0 01-1.5 0V8zm5.5 4.25a.75.75 0 01.75-.75h3.5a.75.75 0 010 1.5h-3.5a.75.75 0 01-.75-.75zM3 6.75C3 5.784 3.784 5 4.75 5h6.5c.966 0 1.75.784 1.75 1.75v1.5A1.75 1.75 0 0111.25 10h-6.5A1.75 1.75 0 013 8.25v-1.5zm1.47-.53a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.06l-1.5 1.5a.75.75 0 01-1.06 0L8 7.81l-.97.97a.75.75 0 01-1.06 0l-1.5-1.5a.75.75 0 010-1.06z"/>
-                    </svg>
-                    Recent activity
-                </h2>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M0 8a8 8 0 1116 0v5.25a.75.75 0 01-1.5 0V8a6.5 6.5 0 10-13 0v5.25a.75.75 0 01-1.5 0V8zm5.5 4.25a.75.75 0 01.75-.75h3.5a.75.75 0 010 1.5h-3.5a.75.75 0 01-.75-.75zM3 6.75C3 5.784 3.784 5 4.75 5h6.5c.966 0 1.75.784 1.75 1.75v1.5A1.75 1.75 0 0111.25 10h-6.5A1.75 1.75 0 013 8.25v-1.5zm1.47-.53a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 011.06 0l.97.97.97-.97a.75.75 0 111.06 1.06l-1.5 1.5a.75.75 0 01-1.06 0L8 7.81l-.97.97a.75.75 0 01-1.06 0l-1.5-1.5a.75.75 0 010-1.06z"/></svg>
+      Recent activity
+    </h2>
                 <div class="row">
                     <section>
                         <div class="row fill-width">
@@ -1058,28 +1103,16 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            ramanverma2k/visit_all
-                                        </span>
-                                    </div>
+                      Pushed 1 commit in <span class="repo">ramanverma2k/visit_all</span>
+                    </div>
                                 </div>
                                 <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            master
-                                        </span>
-                                    </div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">
-                                            #9d1d3bd
-                                        </span>
-                                        <span class="message">
-                                            TODO: implement regex to search for keywords only in inner html text not the whole html source of link.
+                                        <span class="sha">#9d1d3bd</span>
+                                        <span class="message">TODO: implement regex to search for keywords only in inner html text not the whole html source of link.
 * Saved the expression to implement later otherwise i will forget xD
-* This fix is more likely to work for our oversearching and counting of our keyword issue.
-                                        </span>
+* This fix is more likely to work for our oversearching and counting of our keyword issue.</span>
                                     </div>
                                 </div>
                             </section>
@@ -1091,34 +1124,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">
-                                            ramanverma2k/visit_all
-                                        </span>
-                                    </div>
+                      Pushed 2 commits in <span class="repo">ramanverma2k/visit_all</span>
+                    </div>
                                 </div>
                                 <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            master
-                                        </span>
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#658e8a3</span>
+                                        <span class="message">fix the issue of being able to pass an optional but specific regex for a website</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">
-                                            #658e8a3
-                                        </span>
-                                        <span class="message">
-                                            fix the issue of being able to pass an optional but specific regex for a website
-                                        </span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">
-                                            #e9da482
-                                        </span>
-                                        <span class="message">
-                                            trash changes (2)
-                                        </span>
+                                        <span class="sha">#e9da482</span>
+                                        <span class="message">trash changes (2)</span>
                                     </div>
                                 </div>
                             </section>
@@ -1130,26 +1147,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">
-                                            ramanverma2k/Baka_Codes
-                                        </span>
-                                    </div>
+                      Pushed 1 commit in <span class="repo">ramanverma2k/Baka_Codes</span>
+                    </div>
                                 </div>
                                 <div class="details">
-                                    <div>
-                                        on branch
-                                        <span class="code">
-                                            master
-                                        </span>
-                                    </div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">
-                                            #ffbbca3
-                                        </span>
-                                        <span class="message">
-                                            sequential/linear search in C++
-                                        </span>
+                                        <span class="sha">#ffbbca3</span>
+                                        <span class="message">sequential/linear search in C++</span>
                                     </div>
                                 </div>
                             </section>
@@ -1161,11 +1166,8 @@
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">
-                                            opensource9ja/danfojs
-                                        </span>
-                                    </div>
+                      Starred <span class="repo">opensource9ja/danfojs</span>
+                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1176,11 +1178,8 @@
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">
-                                            nightrome/really-awesome-gan
-                                        </span>
-                                    </div>
+                      Starred <span class="repo">nightrome/really-awesome-gan</span>
+                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1191,11 +1190,8 @@
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">
-                                            eriklindernoren/Keras-GAN
-                                        </span>
-                                    </div>
+                      Starred <span class="repo">eriklindernoren/Keras-GAN</span>
+                    </div>
                                 </div>
                             </section>
                         </div>
