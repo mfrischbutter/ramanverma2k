@@ -1371,24 +1371,9 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">C</span>
-                            <div class="bar" style="width: 48.996429988099955%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">61%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">Go</span>
-                            <div class="bar" style="width: 26.846489488298296%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">34%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">Makefile</span>
-                            <div class="bar" style="width: 2.1896072986909956%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">3%</span>
-                        </div>
-                        <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 1.9674732249107496%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">2%</span>
+                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">100%</span>
                         </div>
                     </div>
                 </section>
