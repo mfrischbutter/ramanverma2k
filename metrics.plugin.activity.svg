@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="501" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="570" class="">
     <defs>
         <style/>
     </defs>
@@ -1198,42 +1198,22 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 2 commits in <span class="repo">derpLLC/super-octo-fiesta</span>
+                      Pushed 3 commits in <span class="repo">derpLLC/potential-guacamole</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#60e55c0</span>
-                                        <span class="message">login: seperate states for each buttons and reduce animation duration
-* A non-efficient way to fix the state of all buttons changing at once.
-* A better implementation will be introduced maybe in the future</span>
+                                        <span class="sha">#340f198</span>
+                                        <span class="message">homescreen: goto recipe page screen on tapping the card</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#9f23d0e</span>
-                                        <span class="message">homescreen: export like button to its own seperate statefull widget
-* fixes the issue of all buttons having the same the state when the state of one button is changed.
-* keeps a clean code architecture.
-* each button has its own seperate state.</span>
+                                        <span class="sha">#cad6e27</span>
+                                        <span class="message">screen: add recipe page and its route</span>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">derpLLC/super-octo-fiesta</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#5fbbc9c</span>
-                                        <span class="message">homescreen: properly style profile/signin pill</span>
+                                        <span class="sha">#46983bb</span>
+                                        <span class="message">homescreen: show an indicator inside the card while waiting for assets to load</span>
                                     </div>
                                 </div>
                             </section>
@@ -1245,14 +1225,23 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">derpLLC/super-octo-fiesta</span>
+                      Pushed 3 commits in <span class="repo">derpLLC/super-octo-fiesta</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#c66b4b5</span>
-                                        <span class="message">homescreen/products: change the state of like button when clicked</span>
+                                        <span class="sha">#b6a7302</span>
+                                        <span class="message">login: fix user not being redirected to homescreen even after succesfully authenticating</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f297914</span>
+                                        <span class="message">homescreen: replace ListTile Divider with only Divider widget
+* makes no sense to do that</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f0435d6</span>
+                                        <span class="message">homescreen: check if the user is signed in and take appropriate action accordingly</span>
                                     </div>
                                 </div>
                             </section>
@@ -1270,13 +1259,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#fe9ed09</span>
-                                        <span class="message">homescreen: move user to login screen upon clicking Sign in button.</span>
+                                        <span class="sha">#7017075</span>
+                                        <span class="message">homescreen/drawer: increase area of swipe gesture for drawer to 50% width of the screen</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#5bf3de1</span>
-                                        <span class="message">homescreen: display email of the user instead of name.
-* We don't actually take user's name in the signup process.</span>
+                                        <span class="sha">#5eb71b9</span>
+                                        <span class="message">homescreen: implement side drawer
+* Use Builder widget to get the context of Scaffold
+* Scaffold context is needed in order to open the drawer using a button.</span>
                                     </div>
                                 </div>
                             </section>
@@ -1294,9 +1284,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#91b1d08</span>
-                                        <span class="message">homescreen: Display sign in if the user is not logged in
-* incomplete, more on this later.</span>
+                                        <span class="sha">#d1f7359</span>
+                                        <span class="message">README.md: add screenshots of the app</span>
                                     </div>
                                 </div>
                             </section>
@@ -1308,18 +1297,39 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 2 commits in <span class="repo">derpLLC/super-octo-fiesta</span>
+                      Pushed 1 commit in <span class="repo">derpLLC/super-octo-fiesta</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#9e9b774</span>
-                                        <span class="message">homescreen: Center search button, looks way more nicer</span>
+                                        <span class="sha">#610bd08</span>
+                                        <span class="message">update README.md and upload some screenshots of the app</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 2 commits in <span class="repo">derpLLC/potential-guacamole</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#d878b4d</span>
+                                        <span class="message">homescreen: fetch a random recipe name and image from themealdb api</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#e53d46a</span>
-                                        <span class="message">product: Increase touch target of back button</span>
+                                        <span class="sha">#14420c2</span>
+                                        <span class="message">route for our homescreen
+* Go straight to homescreen on clicking the arrow_forward button for now.
+* Swipe and animation functionality will be added later.</span>
                                     </div>
                                 </div>
                             </section>
