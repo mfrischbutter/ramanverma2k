@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="570" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="627" class="">
     <defs>
         <style/>
     </defs>
@@ -1198,6 +1198,143 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1 commit in <span class="repo">derpLLC/Weatherium</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#5881746</span>
+                                        <span class="message">Typo</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 2 commits in <span class="repo">derpLLC/Weatherium</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#6b80fdc</span>
+                                        <span class="message">update Readme</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#871b129</span>
+                                        <span class="message">update screenshots and add a demo gif</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">derpLLC/Weatherium</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#3737bbe</span>
+                                        <span class="message">Update README.md</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">ramanverma2k/Weather</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#115abcb</span>
+                                        <span class="message">homescreen: why did i leave this here</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 10 commits in <span class="repo">ramanverma2k/Weather</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">development</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#bdb7f4d</span>
+                                        <span class="message">Update README.md</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#32f94ff</span>
+                                        <span class="message">icons: rename to simplify</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#337e70a</span>
+                                        <span class="message">screens: populate with icons automatically based on the weather description</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#6ede9f5</span>
+                                        <span class="message">return svg icons as widgets and seperate the method from main ui</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1cb5b63</span>
+                                        <span class="message">homescreen: only initiate gesture event if primaryVelocity is greater or smaller than 1
+
+* Swipe gestures are alot more consistent and smoother now</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3c82fa6</span>
+                                        <span class="message">api: exclude alerts</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#bf1b2cf</span>
+                                        <span class="message">homescreen: display and update hourly weather as the user swipes through dates</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#150ab6a</span>
+                                        <span class="message">homescreen: update weather info upon swiping the screen right or left</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8356955</span>
+                                        <span class="message">homescreen: swipe to change the date and show weather according to the current date</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#77dfe6c</span>
+                                        <span class="message">LoadingScreen: replace with homescreen after navigating</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">ramanverma2k/Weather</span>
                     </div>
                                 </div>
@@ -1206,125 +1343,6 @@
                                     <div class="commit">
                                         <span class="sha">#d26f860</span>
                                         <span class="message">Update README.md</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 7 commits in <span class="repo">ramanverma2k/Weather</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">development</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#8b2b939</span>
-                                        <span class="message">screens: populate screens with weatherData</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6001378</span>
-                                        <span class="message">this is useless to do and has no real benefits</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e4b29a2</span>
-                                        <span class="message">fetch weatherData from openweather api and city name using coordinates</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4a9826e</span>
-                                        <span class="message">weatherium: return location coordinates and city name using geolocator and geocoding</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#269a565</span>
-                                        <span class="message">weatherium: show a circular loading indicator while fetching data from api</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4fc59e9</span>
-                                        <span class="message">main: implement GetX and GetMaterialApp</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#6dafa22</span>
-                                        <span class="message">weatherium: add necessary packages (Get, geolocator, geocoding and http)</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">ramanverma2k/Weather</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">development</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#7be6f9e</span>
-                                        <span class="message">Update README.md</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">ramanverma2k/Weather</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">development</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#bceea6b</span>
-                                        <span class="message">weatherium: Complete main ui layout</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Ayushd70/rooftop</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#a33ddd3</span>
-                                        <span class="message">test: Mock firebase phone auth.</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">ramanverma2k/dev_templates</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">flutter_bloc</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#1e9d3e0</span>
-                                        <span class="message">analysis: don't spam me about documenting everything dammit</span>
                                     </div>
                                 </div>
                             </section>
