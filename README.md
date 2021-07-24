@@ -1,23 +1,25 @@
 ### Oh, Hi there! 🤩  <img src="https://komarev.com/ghpvc/?username=ramanverma2k"></h2>
 <br />
 <a href="https://www.linkedin.com/in/ramanverma2k" target="_blank">
-  <img align="left" alt="Ayush's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Raman's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ramanverma2k" target="_blank">
-  <img align="left" alt="Ayush's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Raman's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="mailto:me@ramanverma4183@gmail.com" target="_blank">
-  <img align="left" alt="Ayush's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Raman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://t.me/nottaggingraman" target="_blank">
-  <img align="left" alt="Ayush's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Raman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/raman_verma_here" target="_blank">
-  <img align="left" alt="Ayush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Raman's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br /><br />
 <p>
-  <i>I'm <b>Raman Verma</b>, currently pursuing MCA 🎓 from <a href="http://www.iiseindia.co.in/" target="_blank"> <b>IISE</b>, Uttar Pradesh Lucknow</a>.
+  <i>I'm <b>Raman Verma</b>, currently pursuing MCA 🎓 from <a href="http://www.iiseindia.co.in/" target="_blank"> <b>IISE</b>, Uttar Pradesh Lucknow</a></i>.
+  <br/>
+    <br/>Alternate Profile where i used to do fun stuff like custom roms and kernels for Android devices :) <a href="https://github.com/ShadowReaper1" target="_blank"> ShadowReaper1</a>
 </p>
 
 - 🔭 I’m currently working on: [**Petscue**](https://github.com/derpLLC/Petscue) and [**Recipe Time**](https://github.com/derpLLC/RecipeTime)
