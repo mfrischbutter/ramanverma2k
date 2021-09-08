@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="535" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="538" class="">
     <defs>
         <style/>
     </defs>
@@ -1275,6 +1275,57 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 3 commits in <span class="repo">Ayushd70/rooftop</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#aca87ab</span>
+                                        <span class="message">Live Experiences: Section overhaul
+
+* Show Course along with its Author and scheduled time of the zoom meeting.
+* Join Zoom mettings of each course via Join button.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#37580a1</span>
+                                        <span class="message">rooftop: directly pass firebase instance to authrepo</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#fb90d00</span>
+                                        <span class="message">Rooftop: persist logged in state
+
+* Needs more work.</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">ramanverma2k/android_studio_settings</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#86caf34</span>
+                                        <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;raman@DESKTOP-IEG8QNS Update ide.general.xml</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 1 commit in <span class="repo">ramanverma2k/android_studio_settings</span>
                     </div>
                                 </div>
@@ -1352,48 +1403,6 @@
                                     <div class="commit">
                                         <span class="sha">#10127f1</span>
                                         <span class="message">navigate to main website upon clicking blogs</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">Ayushd70/rooftop</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">debug</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#e92028c</span>
-                                        <span class="message">change app icon</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c8b2079</span>
-                                        <span class="message">change app package name</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">Ayushd70/rooftop</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#2770234</span>
-                                        <span class="message">change app icon</span>
                                     </div>
                                 </div>
                             </section>
