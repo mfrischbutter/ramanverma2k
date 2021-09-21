@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="591" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="592" class="">
     <defs>
         <style/>
     </defs>
@@ -1315,18 +1315,16 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 2 commits in <span class="repo">ramanverma2k/iSpy</span>
+                      Pushed 1 commit in <span class="repo">ramanverma2k/iSpy</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#87784ad</span>
-                                        <span class="message">game_page: wait until the playerids are loaded</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3919a6e</span>
-                                        <span class="message">home_page: minor changes and code cleanup</span>
+                                        <span class="sha">#9909955</span>
+                                        <span class="message">test: add MyApp and AuthPage widget tests
+
+* Still a long way to go.</span>
                                     </div>
                                 </div>
                             </section>
@@ -1338,11 +1336,67 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 4 commits in <span class="repo">ramanverma2k/iSpy</span>
+                      Pushed 1 commit in <span class="repo">ramanverma2k/probably-waffle</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#9909955</span>
+                                        <span class="message">test: add MyApp and AuthPage widget tests
+
+* Still a long way to go.</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
+                                    </svg>
+                                    <div class="content">
+                      Released
+                      <span class="bold">iSpy-release</span> of <span class="repo">ramanverma2k/iSpy</span>
+                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 9 commits in <span class="repo">ramanverma2k/probably-waffle</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#677272b</span>
+                                        <span class="message">update README</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1cf5bdb</span>
+                                        <span class="message">add ROADMAP</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7edce91</span>
+                                        <span class="message">iSpy: add README.md and screenshots</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4cceec8</span>
+                                        <span class="message">game_page: fix: wait until the playerids are loaded
+
+* This fixes the issue of FAB not loading for player1.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3919a6e</span>
+                                        <span class="message">home_page: minor changes and code cleanup</span>
+                                    </div>
                                     <div class="commit">
                                         <span class="sha">#c8e8795</span>
                                         <span class="message">game_page: improve game logic
@@ -1374,72 +1428,22 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 2 commits in <span class="repo">ramanverma2k/iSpy</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#0540027</span>
-                                        <span class="message">iSpy: let the player describe their object after sending an image</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4d6a048</span>
-                                        <span class="message">iSpy: minor functionality changes</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">ramanverma2k/iSpy</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#7f8721f</span>
-                                        <span class="message">iSpy: implement game logic and let the players track score and ability to restart the game</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f4661a0</span>
-                                        <span class="message">GamePage: let the user send image as File
-
-* Only works with inbuild gallery.
-
-* Todo: Fix crash on Google Photos</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
                       Pushed 3 commits in <span class="repo">ramanverma2k/iSpy</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#27b45db</span>
-                                        <span class="message">GamePage: let the user draw on received image and send it back to the player</span>
+                                        <span class="sha">#677272b</span>
+                                        <span class="message">update README</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#fc34901</span>
-                                        <span class="message">game_page: Send images only through camera or gallery</span>
+                                        <span class="sha">#1cf5bdb</span>
+                                        <span class="message">add ROADMAP</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#1d37c6a</span>
-                                        <span class="message">iSpy: re-add missed dependencies</span>
+                                        <span class="sha">#7edce91</span>
+                                        <span class="message">iSpy: add README.md and screenshots</span>
                                     </div>
                                 </div>
                             </section>
@@ -1457,11 +1461,10 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#3d3640d</span>
-                                        <span class="message">iSpy: send and receive images using firestore
+                                        <span class="sha">#4cceec8</span>
+                                        <span class="message">game_page: fix: wait until the playerids are loaded
 
-* Create a different room/lobby for each player.
-* Add chatting functionality for both player.</span>
+* This fixes the issue of FAB not loading for player1.</span>
                                     </div>
                                 </div>
                             </section>
