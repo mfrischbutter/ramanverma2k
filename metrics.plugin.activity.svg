@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="581" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="448" class="">
     <defs>
         <style/>
     </defs>
@@ -1321,6 +1321,82 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <span class="sha">#c1aefe5</span>
+                                        <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;snver@DESKTOP-G061T5R Create find.xml, Windows copy.xml, keymap.xml</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 2 commits in <span class="repo">ramanverma2k/rfa</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">rooftop-auth</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#499231c</span>
+                                        <span class="message">Merge branch 'rooftop-auth' of github.com:ramanverma2k/rfa into rooftop-auth</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">ramanverma2k/rfa</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">rooftop-auth</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#7157f1b</span>
+                                        <span class="message">actions: update flutter and action version</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">ramanverma2k/rfa</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#64ff711</span>
+                                        <span class="message">actions: main.yaml: update flutter and action version</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">ramanverma2k/android_studio_settings</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <span class="sha">#af40341</span>
                                         <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;snver@DESKTOP-G061T5R Update path.macros.xml</span>
                                     </div>
@@ -1342,98 +1418,6 @@
                                     <div class="commit">
                                         <span class="sha">#f22801f</span>
                                         <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;raman@DESKTOP-IEG8QNS Overwrite remote https://github.com/ramanverma2k/android_studio_settings to local</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">ramanverma2k/android_studio_settings</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#528aad3</span>
-                                        <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;snver@DESKTOP-G061T5R Overwrite local to https://github.com/ramanverma2k/android_studio_settings</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">ramanverma2k/android_studio_settings</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#344ee15</span>
-                                        <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;snver@DESKTOP-G061T5R Update path.macros.xml</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a96c524</span>
-                                        <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;snver@DESKTOP-G061T5R Overwrite local to https://github.com/ramanverma2k/android_studio_settings</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">ramanverma2k/android_studio_settings</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#a71247f</span>
-                                        <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;raman@DESKTOP-IEG8QNS Overwrite remote https://github.com/ramanverma2k/android_studio_settings to local</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d1195f3</span>
-                                        <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;raman@DESKTOP-IEG8QNS Create Default.xml</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 3 commits in <span class="repo">ramanverma2k/android_studio_settings</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#c6567a0</span>
-                                        <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;snver@DESKTOP-G061T5R Update path.macros.xml</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#de5db50</span>
-                                        <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;snver@DESKTOP-G061T5R Overwrite local to https://github.com/ramanverma2k/android_studio_settings</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#9dc98fd</span>
-                                        <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;snver@DESKTOP-G061T5R Create pluginAdvertiser.xml, editor.xml</span>
                                     </div>
                                 </div>
                             </section>
