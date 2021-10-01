@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="573" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="467" class="">
     <defs>
         <style/>
     </defs>
@@ -935,10 +935,25 @@
     margin-right: 0;
   }
 
-/* Introduction */
-  .introduction {
+/* Introduction and sponsors */
+  .introduction, .sponsors {
     white-space: normal;
     margin: 0 13px 2px;
+  }
+  .sponsors.goal {
+    padding: 6px 8px;
+    border-radius: 5px;
+    background-color: #7777771F;
+  }
+  .sponsors .goal-text {
+    display: flex;
+    justify-content: space-between;
+    font-style: italic;
+    font-size: 10px;
+    margin-bottom: 4px;
+  }
+  .sponsors .avatar {
+    margin: 2px;
   }
 
 /* Stackoverflow */
@@ -1141,6 +1156,22 @@
     display: inline-block;
     width: 97%;
   }
+  .markdown p {
+    margin: 8px 0;
+  }
+  .markdown ul {
+    padding-left: 24px;
+  }
+  .markdown a {
+    color: #58a6ff;
+    text-decoration: none;
+  }
+  .markdown blockquote {
+    border-left: 4px solid #7777771F;
+    color: #777777;
+    margin: 0;
+    padding-left: 16px;
+  }
   code {
     background-color: #7777771F;
     display: inline-block;
@@ -1321,10 +1352,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">auth-ui</span></div>
                                     <div class="commit">
-                                        <span class="sha">#5517772</span>
-                                        <span class="message">test:auth_view: update test.
-
-* Number of SizedBox widgets have changed following previous changes.</span>
+                                        <span class="sha">#95cdffa</span>
+                                        <span class="message">auth_view: dismiss keyboard after submitting the fields.</span>
                                     </div>
                                 </div>
                             </section>
@@ -1336,26 +1365,60 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 3 commits in <span class="repo">ramanverma2k/rfa</span>
+                      Pushed 2 commits in <span class="repo">ramanverma2k/rfa</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">auth-ui</span></div>
                                     <div class="commit">
-                                        <span class="sha">#c88834f</span>
-                                        <span class="message">rooftop: add push notifications support via firebase.</span>
+                                        <span class="sha">#a58da40</span>
+                                        <span class="message">test: follow linting rules.</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#e3a8e65</span>
-                                        <span class="message">pages: privacy_policy: ignore missing whitespaces.
+                                        <span class="sha">#8642a8e</span>
+                                        <span class="message">rooftop: Widget and Integration tests
 
-Will be replaced with RichText widget later.</span>
+Coverage as of this commit 89%</span>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">ramanverma2k/rfa</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">auth-ui</span></div>
                                     <div class="commit">
-                                        <span class="sha">#1333390</span>
-                                        <span class="message">auth: add Legal and privacy policy pages.
+                                        <span class="sha">#65d3c3f</span>
+                                        <span class="message">Update authentication_bloc_test.dart
 
-* Remove one sized box from phoneverification widget to keep the alignment of image consistent.</span>
+Follow linting rules.</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">ramanverma2k/rfa</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">auth-ui</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#e701287</span>
+                                        <span class="message">rooftop: Widget and Integration tests</span>
                                     </div>
                                 </div>
                             </section>
@@ -1373,8 +1436,8 @@ Will be replaced with RichText widget later.</span>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#a1d0e76</span>
-                                        <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;raman@DESKTOP-IEG8QNS Delete Windows copy.xml</span>
+                                        <span class="sha">#85e6d85</span>
+                                        <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;raman@DESKTOP-IEG8QNS Update filetypes.xml</span>
                                     </div>
                                 </div>
                             </section>
@@ -1386,77 +1449,16 @@ Will be replaced with RichText widget later.</span>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 2 commits in <span class="repo">ramanverma2k/android_studio_settings</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#17860d3</span>
-                                        <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;raman@DESKTOP-IEG8QNS Merge branch 'master'</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b84931f</span>
-                                        <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;raman@DESKTOP-IEG8QNS Update filetypes.xml, path.macros.xml</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 3 commits in <span class="repo">ramanverma2k/rfa</span>
+                      Pushed 1 commit in <span class="repo">ramanverma2k/rfa</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">auth-ui</span></div>
                                     <div class="commit">
-                                        <span class="sha">#3b6147b</span>
-                                        <span class="message">rooftop: Initialize firebase app in production release</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d908141</span>
-                                        <span class="message">rooftop: add Firebase Crashlytics support.
+                                        <span class="sha">#5517772</span>
+                                        <span class="message">test:auth_view: update test.
 
-* Disable crash reporting in debug builds.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#69f70b3</span>
-                                        <span class="message">rooftop: implement Firebase Analytics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 3 commits in <span class="repo">ramanverma2k/rfa</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">auth-ui</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#74f578b</span>
-                                        <span class="message">auth: test: Write bloc,unit and widget tests.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#31beee0</span>
-                                        <span class="message">app: don't initialize firebase while rendering App widget
-
-* initialize firebase instance when the app is launched.
-* remove future builder and second splash screen.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#74061fd</span>
-                                        <span class="message">auth: login: minor changes.</span>
+* Number of SizedBox widgets have changed following previous changes.</span>
                                     </div>
                                 </div>
                             </section>
