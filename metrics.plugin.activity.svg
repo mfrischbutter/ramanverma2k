@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="467" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="502" class="">
     <defs>
         <style/>
     </defs>
@@ -1346,14 +1346,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">ramanverma2k/rfa</span>
+                      Pushed 1 commit in <span class="repo">ramanverma2k/android_studio_settings</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">auth-ui</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#95cdffa</span>
-                                        <span class="message">auth_view: dismiss keyboard after submitting the fields.</span>
+                                        <span class="sha">#da70cb7</span>
+                                        <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;snver@DESKTOP-G061T5R Update path.macros.xml</span>
                                     </div>
                                 </div>
                             </section>
@@ -1365,20 +1365,18 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 2 commits in <span class="repo">ramanverma2k/rfa</span>
+                      Pushed 1 commit in <span class="repo">ramanverma2k/rfa</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">auth-ui</span></div>
                                     <div class="commit">
-                                        <span class="sha">#a58da40</span>
-                                        <span class="message">test: follow linting rules.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8642a8e</span>
-                                        <span class="message">rooftop: Widget and Integration tests
+                                        <span class="sha">#b2ebc23</span>
+                                        <span class="message">rooftop: update package name to match firebase project
 
-Coverage as of this commit 89%</span>
+* Change App name to rooftop.
+* Change launcher icon.
+* Replace Splash screen with app icon.</span>
                                     </div>
                                 </div>
                             </section>
@@ -1390,16 +1388,26 @@ Coverage as of this commit 89%</span>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">ramanverma2k/rfa</span>
+                      Pushed 3 commits in <span class="repo">ramanverma2k/rfa</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">auth-ui</span></div>
                                     <div class="commit">
-                                        <span class="sha">#65d3c3f</span>
-                                        <span class="message">Update authentication_bloc_test.dart
+                                        <span class="sha">#25f3547</span>
+                                        <span class="message">test: auth: update.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#41887a9</span>
+                                        <span class="message">authentication: handle failed login state in google auth.
 
-Follow linting rules.</span>
+Emit AuthenticationFailed state when sign in with google fails.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ef8fb43</span>
+                                        <span class="message">rooftop: auth-ui: add a floating action button.
+
+For going back and choosing a different sign in method.</span>
                                     </div>
                                 </div>
                             </section>
@@ -1411,14 +1419,21 @@ Follow linting rules.</span>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 1 commit in <span class="repo">ramanverma2k/rfa</span>
+                      Pushed 2 commits in <span class="repo">ramanverma2k/android_studio_settings</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">auth-ui</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#e701287</span>
-                                        <span class="message">rooftop: Widget and Integration tests</span>
+                                        <span class="sha">#1d5dcbe</span>
+                                        <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;snver@DESKTOP-G061T5R Merge branch 'master'
+
+Conflicts:
+	keymaps/Windows copy.xml</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9ebdc03</span>
+                                        <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;snver@DESKTOP-G061T5R Update Windows copy.xml</span>
                                     </div>
                                 </div>
                             </section>
@@ -1436,8 +1451,8 @@ Follow linting rules.</span>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#85e6d85</span>
-                                        <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;raman@DESKTOP-IEG8QNS Update filetypes.xml</span>
+                                        <span class="sha">#6df5f72</span>
+                                        <span class="message">AI-Arctic Fox | 2020.3.1 Patch 2 &lt;raman@DESKTOP-IEG8QNS Delete keymap.xml</span>
                                     </div>
                                 </div>
                             </section>
@@ -1455,10 +1470,8 @@ Follow linting rules.</span>
                                 <div class="details">
                                     <div>on branch <span class="code">auth-ui</span></div>
                                     <div class="commit">
-                                        <span class="sha">#5517772</span>
-                                        <span class="message">test:auth_view: update test.
-
-* Number of SizedBox widgets have changed following previous changes.</span>
+                                        <span class="sha">#95cdffa</span>
+                                        <span class="message">auth_view: dismiss keyboard after submitting the fields.</span>
                                     </div>
                                 </div>
                             </section>
