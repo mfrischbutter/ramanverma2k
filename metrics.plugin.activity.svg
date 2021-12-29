@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="571" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="433" class="">
     <defs>
         <style/>
     </defs>
@@ -21,19 +21,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">ramanverma2k/bweather</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#4282e61</span>
-                                        <span class="message">homepage/widgets: add a barrel file to reduce import clutter</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7627b04</span>
-                                        <span class="message">homepage: rainy background canvas adjustments for iOS and iPhone 13</span>
+                                        <span class="sha">#e8c0fe8</span>
+                                        <span class="message">add demo gif of the initial ui</span>
                                     </div>
                                 </div>
                             </section>
@@ -45,19 +41,35 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">ramanverma2k/bweather</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">ramanverma2k/Taskerr</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#6441d0e</span>
-                                        <span class="message">homepage: sunny background canvas (2/3)</span>
+                                        <span class="sha">#09eb906</span>
+                                        <span class="message">add screenshots of initial ui</span>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ramanverma2k/Taskerr</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#19081d8</span>
-                                        <span class="message">homepage: sunny background canvas (1/3)</span>
+                                        <span class="sha">#e06fd14</span>
+                                        <span class="message">Update README.md</span>
                                     </div>
                                 </div>
                             </section>
@@ -76,10 +88,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#86c8c42</span>
-                                        <span class="message">homepage: rainy background canvas (3/3)
-
-* Animation needs more tweaking.</span>
+                                        <span class="sha">#995c057</span>
+                                        <span class="message">Update README.md</span>
                                     </div>
                                 </div>
                             </section>
@@ -98,8 +108,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#c30c87e</span>
-                                        <span class="message">actions/workflow: stop analysis for now</span>
+                                        <span class="sha">#840770b</span>
+                                        <span class="message">homepage: add a dropdown menu to change background</span>
                                     </div>
                                 </div>
                             </section>
@@ -111,51 +121,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">ramanverma2k/bweather</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <span class="sha">#1d23c78</span>
-                                        <span class="message">package: add flutter_hooks</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#cc85537</span>
-                                        <span class="message">homepage: rainy background canvas (2/3)</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">ramanverma2k/bweather</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#52fd1f1</span>
-                                        <span class="message">homepage: rainy background canvas (1/3)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d446e7f</span>
-                                        <span class="message">theme: update and correct colors</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#486e485</span>
-                                        <span class="message">bweather: replace counterpage module with homepage</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#149a8c7</span>
-                                        <span class="message">bweather: add custom dark and light theme</span>
+                                        <span class="sha">#0d12201</span>
+                                        <span class="message">homepage: cloudy background canvas (2/3)</span>
                                     </div>
                                 </div>
                             </section>
