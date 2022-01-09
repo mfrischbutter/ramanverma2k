@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="663" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="823" class="">
     <defs>
         <style/>
     </defs>
@@ -14,6 +14,62 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 10 commits in
+                                        <span class="repo">ramanverma2k/personal_website</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#8fc666d</span>
+                                        <span class="message">lib: notion: return only 3 Recent published content</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4f1c746</span>
+                                        <span class="message">add Projects page, dynamically route pages</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3e2abde</span>
+                                        <span class="message">Add blogs page, dynamically route and render pages from Notion</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b409140</span>
+                                        <span class="message">update: dark/light mode based styling</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#dedac64</span>
+                                        <span class="message">set dark mode properties based on class definitions</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#49d35bf</span>
+                                        <span class="message">components: remove lottie animation</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#880acf4</span>
+                                        <span class="message">footer: update styling</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9724384</span>
+                                        <span class="message">homepagae: styling based on light/dark theme</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7f13a1b</span>
+                                        <span class="message">homepage: add spotify logo to now playing section</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#28ff3e4</span>
+                                        <span class="message">navbar: replace lottie animation with svg icons and some minor changes</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -165,26 +221,6 @@ There is no need to create a component which will not be used anywhere else othe
                                     <div class="commit">
                                         <span class="sha">#004e26f</span>
                                         <span class="message">Update resume link</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ramanverma2k/iamin</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#e3d85d5</span>
-                                        <span class="message">Update README.md</span>
                                     </div>
                                 </div>
                             </section>
