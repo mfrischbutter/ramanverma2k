@@ -17,7 +17,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 43.7 characters per line of code written</li>
+                        <li>Has approximately 42.2 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -82,8 +82,8 @@
                         10
                     </div>
                     <div class="entry">
-                        <span class="value">3</span>
-                        <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value">1</span>
+                        <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         11
                     </div>
                     <div class="entry">
@@ -117,8 +117,8 @@
                         17
                     </div>
                     <div class="entry">
-                        <span class="value">1</span>
-                        <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <span class="value">3</span>
+                        <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         18
                     </div>
                     <div class="entry">
@@ -194,17 +194,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Dart</span>
-                            <div class="bar" style="width: 67.67366108628134%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 67.91713076408999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">85%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Rust</span>
-                            <div class="bar" style="width: 12.180895386713129%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 11.940298507462686%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">15%</span>
                         </div>
                         <div class="entry">
                             <span class="name">RenderScript</span>
-                            <div class="bar" style="width: 0.1454435270055299%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.14257072844731566%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
