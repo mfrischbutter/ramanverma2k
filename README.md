@@ -27,7 +27,6 @@
     </td>
     <td align="right">
     ![Raman's Github Stats](https://github-readme-stats.vercel.app/api?username=ramanverma2k&show_icons=true&theme=dark#gh-dark-mode-only)
-    ![Raman's Github Stats](https://github-readme-stats.vercel.app/api?username=ramanverma2k&show_icons=true&#gh-light-mode-only)
     <img width="400" height="1" alt="">
     </td>
   </tr>
