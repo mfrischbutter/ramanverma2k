@@ -17,9 +17,21 @@
 </details>
 <br/>
 
-📊 &nbsp;**This week I spent my time on**
+<table>
+  <tr>
+    <td align="left">
+  📊 &nbsp; <strong>This week I spent my time on</strong>
 
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ramanverma2k&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+  ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ramanverma2k&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+  <img width="450" height="1" alt="">
+    </td>
+    <td align="right">
+    ![Raman's Github Stats](https://github-readme-stats.vercel.app/api?username=ramanverma2k&show_icons=true&theme=dark#gh-dark-mode-only)
+    ![Raman's Github Stats](https://github-readme-stats.vercel.app/api?username=ramanverma2k&show_icons=true&#gh-light-mode-only)
+    <img width="400" height="1" alt="">
+    </td>
+  </tr>
+</table>
 
 🧰 &nbsp;**My primary tech stack**
 <p align="left">
